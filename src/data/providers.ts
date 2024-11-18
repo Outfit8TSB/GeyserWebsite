@@ -542,6 +542,13 @@ export const providersData: Providers = {
             url: 'https://scalacube.com/',
             description: descriptionTemplates.ipAndPort
         },
+                {
+            name: 'StellaIT Minehub',
+            url: 'https://minehub.kr/',
+            description: translate({
+                message: "descriptionTemplates.ipAndPort"
+            })
+        },
         {
             name: 'Shockbyte',
             url: 'https://shockbyte.com/',
